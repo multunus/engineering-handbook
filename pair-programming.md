@@ -1,6 +1,6 @@
 ## Pair Programming
 
-This post is mostly about how we do pair programming and things that we've learnt in the last few years about effectively doing it. We've tried focus less on the what and more on the how.
+This post is mostly about how we do pair programming and things that we've learnt in the last few years about effectively doing it. We've tried to focus less on the what and more on the how.
 
 We follow pair programming for most our work. It helps us maintain a high quality of code and an extremely low defect rate. It can also be a great way for a new programmer to be inducted into the team as it accelerates learning.
 
