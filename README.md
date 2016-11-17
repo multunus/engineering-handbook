@@ -10,14 +10,14 @@ The practices can be classified into:
 
 This is still under Work in Progress and more content will be added in the coming days.
 
-#Planning
+# Planning
 
-#Developing
+# Developing
 
-##Test Driven Development
-##Pairing
-##Mainline Development
-##[Feature Toggles](http://www.multunus.com/blog/2016/03/merge-hells-feature-toggles-rescue/)
+## Test Driven Development
+## [Pair Programming](https://github.com/multunus/engineering-handbook/blob/master/pair-programming.md)
+## Mainline Development
+## [Feature Toggles](http://www.multunus.com/blog/2016/03/merge-hells-feature-toggles-rescue/)
 
 #Releasing
 
