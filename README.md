@@ -17,7 +17,7 @@ This is still under Work in Progress and more content will be added in the comin
 ## [Test Driven Development](https://github.com/multunus/engineering-handbook/blob/master/tdd.md)
 ## [Pair Programming](https://github.com/multunus/engineering-handbook/blob/master/pair-programming.md)
 ## Mainline Development
-## [Feature Toggles](http://www.multunus.com/blog/2016/03/merge-hells-feature-toggles-rescue/)
+## Feature Toggles
 
 #Releasing
 
